@@ -1,0 +1,28 @@
+# 🧠 Python & Deep Learning
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+
+# ⚙️ Model files
+*.pth
+*.pt
+*.h5
+*.pkl
+
+# 📂 Datasets / media
+*.zip
+*.tar.gz
+*.csv
+*.mp4
+*.avi
+*.jpg
+*.png
+
+# 🧪 Logs / outputs
+*.log
+
+# ⚠️ Secrets or virtual environments
+.env
+venv/
+.DS_Store
