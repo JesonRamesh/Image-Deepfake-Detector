@@ -17,8 +17,7 @@ Upload any picture and the model will classify it as either:
 - **Real**
 - **Fake**
 
-<img width="2241" height="595" alt="image" src="https://github.com/user-attachments/assets/1936ae8f-5992-4e31-aaaf-18c447b48800" />
-
+<img width="2223" height="601" alt="image" src="https://github.com/user-attachments/assets/65e9c7ec-cadb-42ff-b675-7dec1165031a" />
 
 ## 🧾 How It Works
 1. **Model** - A simple CNN model trained using Kaggle's '140k Real and Fake Faces' [Click Here](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces) to view the dataset
