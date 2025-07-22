@@ -3,7 +3,8 @@ A simple model to check if an image is *Real* or *Fake (AI Generated)*
 
 This project uses a CNN to detect whether an input image is real or AI-generated.
 
-🖼️ **Try the App**:  
+🖼️ **Try the App**: 
+---
 [![Gradio App](https://img.shields.io/badge/Gradio-App-blue?logo=gradio)](https://huggingface.co/spaces/jeeeeeeeson/fake_image_detector)
 
 Upload an image and get a "Real" or "Fake" prediction.
